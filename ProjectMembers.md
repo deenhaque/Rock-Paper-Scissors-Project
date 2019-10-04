@@ -40,7 +40,7 @@ Cognitive Science, 1st Year, Python
 
 Github: blankkcanvas
 
-## MANOJ GOLI
+## MANOJ GOLIlskdnc sdlm
 Computer Engineering, Meng, Python
 
 ## Revanth Sridhar
